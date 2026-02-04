@@ -1,0 +1,30 @@
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Directorios de IDE
+.vscode/
+.idea/
+*.iml
+
+# Archivos de log
+*.log
+
+# Dependencias (si se usa Node.js o Python)
+node_modules/
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Archivos de construcción
+dist/
+build/
+*.o
+*.exe
